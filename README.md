@@ -62,6 +62,6 @@ This project fulfills Task 2 of the Wells Fargo program: “Implement the data m
 
 ## 🔗 Author
 
-- Developer: [Your Name]
-- LinkedIn: [Add your LinkedIn]
-- GitHub: [github.com/yourusername]
+- Developer: shashi kiran
+- LinkedIn: https://www.linkedin.com/in/shashi-kiran-a5486a194/
+- GitHub: github.com/shashikiran61612
